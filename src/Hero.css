@@ -1,0 +1,15 @@
+.Hero {
+    background-color: #E6F4F1;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    font-family: var(--heading-font-family);
+}
+
+h2 {
+    font: var (--default-font-family);
+}
