@@ -1,7 +1,8 @@
 import './App.css';
 import Nav from "./Nav";
 import Hero from "./Hero";
-import Portfolio from  "./Portfolio"
+import Portfolio from  "./Portfolio";
+import Footer from "./Footer";
 
 export default function App() {
   return (
@@ -19,7 +20,7 @@ export default function App() {
             </div>
           </main>
         <footer className="App-footer">
-          Coded by Fanny N
+          <Footer />
         </footer>
       </div>
   );

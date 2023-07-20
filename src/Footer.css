@@ -1,0 +1,11 @@
+.Footer {
+    font-size: 16px;
+    background-color: var(--secondary-color);
+}
+
+.Footer .fa-linkedin, 
+.Footer .fa-square-envelope {
+    font-size: 30px;
+    color: var(--branding-color);
+    padding: 10px;
+}
